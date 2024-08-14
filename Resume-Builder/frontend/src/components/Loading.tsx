@@ -1,4 +1,5 @@
 import LoadImage from "../assets/spinner.svg";
+
 const Loading = () => {
   return (
     <div>
@@ -6,5 +7,6 @@ const Loading = () => {
     </div>
   );
 };
+
 
 export default Loading;

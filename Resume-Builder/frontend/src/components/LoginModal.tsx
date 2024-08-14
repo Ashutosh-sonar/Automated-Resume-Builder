@@ -6,6 +6,7 @@ import { useMouse, useElementSize, useClickOutside } from "@mantine/hooks";
 import Login from "./Login";
 import Register from "./Register";
 // import Button from "./Button";
+
 interface modalProp {
   loginModal: boolean;
   setLoginModal: React.Dispatch<React.SetStateAction<boolean>>;

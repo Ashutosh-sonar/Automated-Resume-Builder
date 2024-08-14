@@ -22,6 +22,7 @@ const Index = () => {
           dream job. Start crafting your perfect resume today!
         </p> */}
       </div>
+      
       <div
         onMouseEnter={() => setHover(true)}
         onMouseLeave={() => setHover(false)}

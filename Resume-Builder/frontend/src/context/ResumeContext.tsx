@@ -53,3 +53,4 @@ const ResumeContextProvider = ({ children }: { children: React.ReactNode }) => {
 
 export const useResumeContext = () => useContext(ResumeContext);
 export default ResumeContextProvider;
+

@@ -25,6 +25,7 @@ interface resumeProps {
       details: string;
     }[];
   }[];
+  
   education: {
     education: {
       course: string;

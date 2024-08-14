@@ -6,6 +6,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import Button from "./DeleteButton";
 import { toast } from "react-hot-toast";
 
+
 const Objective = () => {
   const { subpages } = useParams();
   const navigate = useNavigate();

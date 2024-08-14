@@ -4,6 +4,7 @@ import FormikControl from '../forms/FormikControl';
 import { toast } from 'react-hot-toast';
 import * as Yup from 'yup';
 
+
 const Register = ({ setToggle, handleToggle }: { setToggle: React.Dispatch<React.SetStateAction<boolean>>; handleToggle: () => void; }) => {
   const initialValues = {
     username: '',

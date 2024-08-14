@@ -7,6 +7,7 @@ import { useResumeContext } from '../context/ResumeContext';
 import { toast } from 'react-hot-toast';
 import * as Yup from 'yup';
 
+
 const Login = ({
   handleToggle,
   setLoginModal,

@@ -7,6 +7,7 @@ import RemoveButton from './RemoveButton';
 import Button from './DeleteButton';
 import { toast } from 'react-hot-toast';
 
+
 const Education = () => {
   const { subpages } = useParams();
   const navigate = useNavigate();

@@ -25,3 +25,4 @@
   "include": ["src", "src/react-quill.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
+

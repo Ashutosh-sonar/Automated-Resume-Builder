@@ -6,3 +6,4 @@ const CertificationSchema = new Schema({
 });
 const CertificationModel = model('Certification', CertificationSchema);
 module.exports = CertificationModel;
+

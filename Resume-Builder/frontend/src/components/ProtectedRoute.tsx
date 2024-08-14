@@ -3,6 +3,7 @@ import { useResumeContext } from '../context/ResumeContext'
 import { Navigate } from 'react-router-dom'
 import toast from 'react-hot-toast'
 
+
 interface childrenProp {
     children: React.ReactNode
 }

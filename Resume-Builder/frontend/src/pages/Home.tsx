@@ -19,6 +19,7 @@ const Home = () => {
   const navLinks = (type: string) => {
     let styles = 'link';
 
+    
     if (type === subpages) {
       styles += ' bg-slate-200/10 ';
     } else {

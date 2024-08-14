@@ -3,6 +3,7 @@ import { useResumeContext } from '../context/ResumeContext'
 import Tippy from '@tippyjs/react'
 import 'tippy.js/dist/tippy.css'
 
+
 const Navbar = ({
   handleModal,
   handleLoginModal,

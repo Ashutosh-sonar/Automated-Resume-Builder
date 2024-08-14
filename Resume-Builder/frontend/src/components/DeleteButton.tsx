@@ -23,3 +23,4 @@ const Button = ({ handleDelete }: { handleDelete: () => void }) => {
 };
 
 export default Button;
+
